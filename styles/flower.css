@@ -172,13 +172,13 @@
   }
   .instagram-wrapper > .container > p {
     max-width: 594px;
-    margin: 0 20px;
+    margin: 0 auto;
   }
   .instagram-images {
     display: flex;
-    gap: 14px;
-    margin: 38px 40px 100px 0;
-    vertical-align:none;
+    gap: 24px;
+    margin: 48px 0 128px 0;
+
   }
   
   .newsletter {
